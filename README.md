@@ -1,1 +1,1 @@
-# image_dao_squashfs
+# image_squashfs
